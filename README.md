@@ -26,6 +26,11 @@ I am a Front-End Developer with solid experience in HTML5, CSS3, JavaScript, Typ
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=agile&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+## 🌐 Languages
+
+![English](https://img.shields.io/badge/English-Upper--Intermediate-blue)  
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow)
+
 ## 📂 Projects
 **NoteHub**
 - A simple and modern note-taking web application that allows users to create, edit, and delete notes.  
