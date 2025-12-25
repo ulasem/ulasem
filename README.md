@@ -30,9 +30,9 @@ I am a Front-End Developer with solid experience in HTML5, CSS3, JavaScript, Typ
 **NoteHub**
 - A simple and modern note-taking web application that allows users to create, edit, and delete notes.  
   Built with Vite and TypeScript, focusing on clean UI and structured frontend logic.
-  🔗 [Live Demo](05-notehub-flax-kappa.vercel.app) | [GitHub](https://github.com/ulasem/05-notehub)
+- 🔗 [Live Demo](https://05-notehub-flax-kappa.vercel.app/) | [GitHub](https://github.com/ulasem/05-notehub)
 
 **DreamTeam**
-- A modern furniture e-commerce website showcasing a stylish and user-friendly catalog of furniture products.
+- A modern furniture website showcasing a stylish and user-friendly catalog of furniture products.
   Built with HTML, CSS, and JavaScript — featuring a clean UI and interactive components.
-  🔗 [Live Demo](https://dmytro-liashenko.github.io/DreamTeam/) | [GitHub](https://github.com/Dmytro-Liashenko/DreamTeam)
+- 🔗 [Live Demo](https://dmytro-liashenko.github.io/DreamTeam/) | [GitHub](https://github.com/Dmytro-Liashenko/DreamTeam)
