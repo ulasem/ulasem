@@ -27,5 +27,11 @@ I am a Front-End Developer with solid experience in HTML5, CSS3, JavaScript, Typ
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📂 Projects
-- 🔗 [NoteHub](https://github.com/ulasem/05-notehub)
+[NoteHub](https://github.com/ulasem/05-notehub)
+A simple and modern note-taking web application that allows users to create, edit, and delete notes.  
+Built with Vite and TypeScript, focusing on clean UI and structured frontend logic.
+
+🔗 **Live Demo:** https://your-vercel-link.vercel.app  
+🔗 **Repository:** https://github.com/ulasem/05-notehub
+
 - 🔗 [CodeStorm](https://ulasem.github.io/CodeStorm-progect/)
